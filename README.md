@@ -1,2 +1,2 @@
-# White-mold-predictive-modeling-JC
+# SSR-predictive-modeling
 Data and code for white mold predictive modeling project 
