@@ -9,8 +9,7 @@ Institution: Michigan State University
 Email: checkjil@msu.edu  
 
 ## Publication information  
-Title: Unraveling the environmental drivers of Phyllachora maydis spore release using spore trapping and qPCR  
-Journal:  
+Title: Multicrop Sclerotinia sclerotiorum apothecia presence models for irrigated environments are improved by on-site weather monitoring and supervised machine learning
 Authors: Check, J. C., Dong, Y., Smith, D. L., Webster, R. W., Willbur, J., Chilvers, M. I.  
 doi: <XXXX>  
 
