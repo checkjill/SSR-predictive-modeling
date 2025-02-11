@@ -1,1 +1,8 @@
+This folder contains exported Auto ML models and pickled tuned ML models. 
+
+Python version 3.12.4.final.0
+
+Non-auto ML models are named by the following convention:
+
+Algorithm_FeatureSelectionMethod_DataSource.pkl
 
