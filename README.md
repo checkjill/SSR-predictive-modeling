@@ -1,6 +1,6 @@
 # SSR-predictive-modeling
 
-Data and code for white mold predictive modeling project 
+Data and code for *Sclerotinia sclerotiorum* apothecia predictive modeling project 
 
 ## Author information  
 Name: Jill Check  
