@@ -23,8 +23,8 @@ doi: <XXXX>
 ### Jupyter notebooks:  
 1 Data normalization and correlation RTMA  
 2 Data normalization and correlation RTMA + LOCOMOS  
-3 Data normalization PCA RTMA  
-4 Data normalization PCA RTMA + LOCOMOS  
+3 Data normalization and PCA RTMA  
+4 Data normalization and PCA RTMA + LOCOMOS  
 5 Model training correlation RTMA  
 6 Model training correlation RTMA + LOCOMOS  
 7 Model training PCA RTMA  
