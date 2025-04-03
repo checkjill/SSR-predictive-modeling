@@ -18,7 +18,7 @@ cd $HOME   ### change to the directory where your code is located
 
 conda activate tpotenv
 
-python /mnt/home/checkjil/white_mold_tpot_raw/code/tpot_LX.py
+python /..path../tpot_LX.py
 
 conda deactivate
 
