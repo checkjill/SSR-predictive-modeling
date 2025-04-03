@@ -9,7 +9,8 @@ Institution: Michigan State University
 Email: checkjil@msu.edu  
 
 ## Publication information  
-Title: Multicrop *Sclerotinia sclerotiorum* apothecia prediction models for irrigated environments are improved by on-site weather monitoring and supervised machine learning
+Title: Multicrop *Sclerotinia sclerotiorum* apothecia prediction models for irrigated environments are improved by on-site weather monitoring and supervised machine learning  
+Journal:  
 Authors: Check, J. C., Bales, S., Dong, Y., Smith, D. L., Webster, R. W., Willbur, J., Chilvers, M. I.  
 doi: <XXXX>  
 
@@ -17,9 +18,9 @@ doi: <XXXX>
 ## Contents
 ### Data files:  
 **Field data:**  
-**Weather data:**
+**Weather data:**  
 
-### Python files:
+### Python files:  
 
 ### Bash and python files for the MSU HPCC:  
-tpot
+
