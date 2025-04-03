@@ -1,1 +1,5 @@
+This folder contains code for:  
 
+* Data normalization, correlation analysis, PCA (1-4)
+* Model training and testing (5-8)
+* AutoML model training and testing (9-10)  
