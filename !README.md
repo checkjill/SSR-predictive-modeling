@@ -21,14 +21,15 @@ doi: <XXXX>
 **Weather data:**  
 
 ### Jupyter notebooks:  
-1 Data normalization and correlation RTMA  
-2 Data normalization and correlation RTMA + LOCOMOS  
-3 Data normalization and PCA RTMA  
-4 Data normalization and PCA RTMA + LOCOMOS  
-5 Model training correlation RTMA  
-6 Model training correlation RTMA + LOCOMOS  
-7 Model training PCA RTMA  
-8 Model training PCA RTMA + LOCOMOS  
+1_1 Data normalization and correlation RTMA  
+1_2 Data normalization and correlation RTMA + LOCOMOS  
+1_3 Data normalization and PCA RTMA  
+1_4 Data normalization and PCA RTMA + LOCOMOS  
+2_1 Model training correlation RTMA  
+2_2 Model training correlation RTMA + LOCOMOS  
+2_3 Model training PCA RTMA  
+2_4 Model training PCA RTMA + LOCOMOS  
 
 ### Bash and python files for the MSU HPCC:  
-
+3_1 tpot_RTMA.py
+3_2 tpot_LOCOMOS.py
