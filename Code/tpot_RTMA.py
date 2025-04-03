@@ -12,8 +12,8 @@ from sklearn.preprocessing import LabelEncoder
 
 # READ IN DATA AND SPLIT
 
-xdat = read_csv('/mnt/home/checkjil/white_mold_tpot_raw/raw_data/x_dat_RTMA_HPCC.csv')
-ydat = read_csv('/mnt/home/checkjil/white_mold_tpot_raw/raw_data/y_dat_RTMA_HPCC.csv')
+xdat = read_csv('')
+ydat = read_csv('')
 ydat = LabelEncoder().fit_transform(ydat.astype('str'))
 
 x_train, x_test, y_train, y_test = train_test_split(xdat, ydat, train_size=0.80, test_size=0.20, random_state=42)
@@ -48,4 +48,4 @@ print("auroc score = ", auroc_score)
 
 # EXPORT MODEL
 
-model.export('/mnt/home/checkjil/white_mold_tpot_raw/outputs/tpot_best_model_RTMA.py')
+model.export('')
