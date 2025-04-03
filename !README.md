@@ -31,5 +31,5 @@ doi: <XXXX>
 2_4 Model training PCA RTMA + LOCOMOS  
 
 ### Bash and python files for the MSU HPCC:  
-3_1 tpot_RTMA.py
-3_2 tpot_LOCOMOS.py
+3_1 tpot_RTMA.py  
+3_2 tpot_LOCOMOS.py  
